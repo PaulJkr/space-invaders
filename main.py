@@ -21,6 +21,12 @@ YELLOW_LASER = pygame.image.load(os.path.join("assets", "pixel_laser_yellow.png"
 
 BG = pygame.transform.scale(pygame.image.load(os.path.join("assets", "background-black.png")), (WIDTH,HEIGHT))
 
+class Ship:
+    def __init__(self, x, y, health=100):
+        self.x = x
+        self.y = y
+
+
 def main():
     run = True
     FPS = 70
