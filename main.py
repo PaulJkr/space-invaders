@@ -31,8 +31,8 @@ class Ship:
         self.lasesr =[]
         self.cool_down_counter = 0
 
-def draw(self, window):
-    pygame.draw.rect(window, (255,0,0), (self.x, self.y, 50, 50))
+    def draw(self, window):
+        pygame.draw.rect(window, (255,0,0), (self.x, self.y, 50, 50))
 
 
 
