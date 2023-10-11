@@ -1,0 +1,5 @@
+[flake8]
+exclude = 
+    venv
+
+max_line_length = 119
