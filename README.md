@@ -20,16 +20,6 @@ Dodge enemy fire, blast alien invaders, and rack up your high score in this fast
 - 🌌 **Background Music** – Immersive arcade atmosphere  
 - 🌗 **Pause/Restart** – Game loop control for smooth gameplay
 
----
-
-## 📸 Screenshots / GIFs
-
-> 🎥 *Add gameplay screenshots or a short .gif here*  
-> Example placeholders:
-> - `assets/screenshots/start-screen.png`
-> - `assets/screenshots/in-game.gif`
-
----
 
 ## 🛠️ Tech Stack
 
